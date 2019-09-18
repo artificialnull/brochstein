@@ -6,6 +6,7 @@ import 'package:brochstein/BrochsteinPage.dart';
 import 'package:brochstein/PhotoInfo.dart';
 import 'package:brochstein/Plans.dart';
 import 'package:brochstein/Purpose.dart';
+import 'package:brochstein/SourceSummary.dart';
 import 'package:flutter/material.dart';
 
 import 'Experiences.dart';
@@ -41,6 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
     Surroundings(),
     Experiences(),
     Architect(),
+    SourceSummary(),
     BlogAnal(),
     Album(),
   ];
