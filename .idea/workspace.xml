@@ -4,11 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60505236-b3cc-4f34-9fe0-83424e9ea590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/SourceSummary.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-    </list>
+    <list default="true" id="60505236-b3cc-4f34-9fe0-83424e9ea590" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -57,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/SourceSummary.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+            <state relative-caret-position="484">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -166,7 +162,7 @@
     <option name="x" value="-1" />
     <option name="y" value="2" />
     <option name="width" value="1922" />
-    <option name="height" value="1079" />
+    <option name="height" value="1059" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -241,7 +237,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="2" width="1922" height="1079" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" />
@@ -257,12 +252,12 @@
       <window_info anchor="bottom" id="Logcat" order="2" weight="0.32943678" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.33733624" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.33723405" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32943678" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.23829788" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.23829788" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Flutter Inspector" order="1" />
       <window_info anchor="right" id="Flutter Outline" order="2" weight="0.32960597" />
@@ -394,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/SourceSummary.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+        <state relative-caret-position="484">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
