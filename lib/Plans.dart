@@ -23,8 +23,14 @@ class PlanState extends State<Plans> {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: <Widget>[
-                  ListTile(
-                    title: Text("Rice Quad Plan & Pavilion Section"),
+                  Container(
+                    color: Colors.blueGrey,
+                    child: ListTile(
+                      title: Text(
+                        "Rice Quad Plan & Pavilion Section",
+                        style: TextStyle(color: Colors.white),
+                      ),
+                    ),
                   ),
                   Image.asset('assets/images/large_plan.jpg'),
                 ],
@@ -34,9 +40,12 @@ class PlanState extends State<Plans> {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: <Widget>[
-                  ListTile(
-                    title: Text("Pavilion Plan"),
-                  ),
+                  Container(
+                      color: Colors.blueGrey,
+                      child: ListTile(
+                        title: Text("Pavilion Plan",
+                            style: TextStyle(color: Colors.white)),
+                      )),
                   Image.asset('assets/images/small_plan.jpg'),
                 ],
               ))

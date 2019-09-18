@@ -1,4 +1,5 @@
 import 'package:brochstein/Album.dart';
+import 'package:brochstein/Architect.dart';
 import 'package:brochstein/BasicInfo.dart';
 import 'package:brochstein/BlogAnal.dart';
 import 'package:brochstein/BrochsteinPage.dart';
@@ -39,8 +40,9 @@ class _MyHomePageState extends State<MyHomePage> {
     PhotoInfo(),
     Surroundings(),
     Experiences(),
+    Architect(),
+    BlogAnal(),
     Album(),
-    BlogAnal()
   ];
   var _home = 0;
 

@@ -23,8 +23,11 @@ class PhotoInfoState extends State<PhotoInfo> {
           Card(
               clipBehavior: Clip.antiAlias,
               child: Column(mainAxisSize: MainAxisSize.min, children: <Widget>[
+              Container(
+              color: Colors.blueGrey,
+                  child:
                 ListTile(
-                  title: Text("Front View"),
+                  title: Text("Front View", style: TextStyle(color: Colors.white),),
                   trailing: RaisedButton(
                       materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
                       onPressed: () {
@@ -37,7 +40,7 @@ class PhotoInfoState extends State<PhotoInfo> {
                       child: Text(
                         _labelled ? "HIDE" : "SHOW",
                       )),
-                ),
+                )),
                 Image.asset(_labelled
                     ? 'assets/images/brochstein_labelled.png'
                     : 'assets/images/brochstein_blank.png'),
@@ -67,9 +70,11 @@ class PhotoInfoState extends State<PhotoInfo> {
           Card(
               clipBehavior: Clip.antiAlias,
               child: Column(mainAxisSize: MainAxisSize.min, children: <Widget>[
-                ListTile(
-                  title: Text("Side View"),
-                ),
+              Container(
+              color: Colors.blueGrey,
+                  child: ListTile(
+                  title: Text("Side View", style: TextStyle(color: Colors.white),),
+                )),
                 Image.asset('assets/images/brochstein_fountain.jpg'),
                 Padding(
                   padding: EdgeInsets.only(left: 16.0, right: 16.0, top: 16.0),
@@ -90,9 +95,11 @@ class PhotoInfoState extends State<PhotoInfo> {
           Card(
               clipBehavior: Clip.antiAlias,
               child: Column(mainAxisSize: MainAxisSize.min, children: <Widget>[
-                ListTile(
-                  title: Text("Interior View"),
-                ),
+              Container(
+              color: Colors.blueGrey,
+                  child:ListTile(
+                  title: Text("Interior View", style: TextStyle(color: Colors.white),),
+                )),
                 Image.asset('assets/images/brochstein_interior.jpg'),
                 Padding(
                   padding: EdgeInsets.only(left: 16.0, right: 16.0, top: 16.0, bottom: 24.0),
