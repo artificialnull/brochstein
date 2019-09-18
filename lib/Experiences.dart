@@ -29,7 +29,7 @@ class ExperienceState extends State<Experiences> {
                         padding:
                             EdgeInsets.only(top: 24.0, left: 24.0, right: 24.0),
                         child: Text(
-                          "“Very nice.”",
+                          "“It provides an innovative space for people to work together and chat about interesting ideas.”",
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 20.0,

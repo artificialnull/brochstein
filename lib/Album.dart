@@ -62,7 +62,37 @@ class AlbumState extends State<Album> {
                         style: TextStyle(fontSize: 16.0),
                       ))
                 ],
-              ))
+              )),
+          Card(
+              clipBehavior: Clip.antiAlias,
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: <Widget>[
+                  Image.asset('assets/images/album_continuous.jpg'),
+                  Padding(
+                      padding: EdgeInsets.only(
+                          top: 16.0, bottom: 24.0, left: 16.0, right: 16.0),
+                      child: Text(
+                        "This scene captures the interior of the Pavilion surrounding the FLO Paris bakery. The entire area is a continuous flow, and the arrangement prompts a natural gravitation toward the central venue.",
+                        style: TextStyle(fontSize: 16.0),
+                      ))
+                ],
+              )),
+              Card(
+                  clipBehavior: Clip.antiAlias,
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: <Widget>[
+                      Image.asset('assets/images/album_night.jpg'),
+                      Padding(
+                          padding: EdgeInsets.only(
+                              top: 16.0, bottom: 24.0, left: 16.0, right: 16.0),
+                          child: Text(
+                            "Shot at night, this photo reveals the Pavilion's bright interior lighting as well as the space's occupation even at late hours. The interior lighting allows for a seamless transition between day and night, a capability which contributes to the Pavilion's popularity.",
+                            style: TextStyle(fontSize: 16.0),
+                          ))
+                    ],
+                  )),
         ]));
   }
 }

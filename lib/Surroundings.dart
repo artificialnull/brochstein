@@ -26,7 +26,7 @@ class SurroundingState extends State<Surroundings> {
                     Padding(
                       padding: EdgeInsets.all(16.0),
                       child: Text(
-                        "The Brochstein Pavilion is situated near the nucleus of Rice University, and as such it is surrounded on all sides by the campus. This central location gives credence to the Pavilion's status as a centerpiece of Rice's student life.",
+                        "The Brochstein Pavilion is situated near the nucleus of Rice University, and as such it is surrounded on all sides by the campus. This central location gives credence to the Pavilion's status as a focal point of Rice's student life.",
                         style: TextStyle(fontSize: 16.0),
                       ),
                     ),
