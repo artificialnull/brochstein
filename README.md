@@ -8,11 +8,11 @@ Menu | Basic Info | Purpose
 --- | --- | ---
 ![](/screenshots/basic_info.png) | ![](/screenshots/basic_info.png) | ![](/screenshots/purpose.png)
 
-Plans 1 | Plans 2 | Drawing
+Plan 1 | Plan 2 | Drawing
 --- | --- | ---
 ![](/screenshots/plans_1.png) | ![](/screenshots/plans_2.png) | ![](/screenshots/basic_info.png)
 
-Photographs 1 | Photographs 2 | Photographs 3
+Exterior Photograph 1 | Exterior Photograph 2 | Interior Photograph
 --- | --- | ---
 ![](/screenshots/photographs_1.png) | ![](/screenshots/photographs_2.png) | ![](/screenshots/photographs_3.png) 
 
@@ -24,11 +24,11 @@ Source Summary 1 | Source Summary 2 | Blog Analysis
 --- | --- | ---
 ![](/screenshots/source_summary_1.png) | ![](/screenshots/source_summary_2.png) | ![](/screenshots/blog_analysis.png)
 
-Album 1 | Album 2 | Album 3
+Album Image 1 | Album Image 2 | Album Image 3
 --- | --- | ---
 ![](/screenshots/album_1.png) | ![](/screenshots/album_2.png) | ![](/screenshots/album_3.png)
 
-Album 4 | Album 5 | About
+Album Image 4 | Album Image 5 | About
 --- | --- | ---
 ![](/screenshots/album_4.png) | ![](/screenshots/album_5.png) | ![](/screenshots/about.png)
 
