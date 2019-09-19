@@ -30,7 +30,7 @@ Album 1 | Album 2 | Album 3
 
 Album 4 | Album 5 | About
 --- | --- | ---
-![](/screenshots/album_4.png) | ![](/screenshots/album_5.png) | ![](/screenshots/basic_info.png)
+![](/screenshots/album_4.png) | ![](/screenshots/album_5.png) | ![](/screenshots/about.png)
 
 
 
