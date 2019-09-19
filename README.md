@@ -4,9 +4,37 @@ The Brochstein Pavilion, presented in the form of a mobile app.
 
 ## Screenshots
 
-Basic Info | Purpose
----------- | -------
-![](/screenshots/basic_info.png) | ![](/screenshots/purpose.png)
+Menu | Basic Info | Purpose 
+--- | --- | ---
+![](/screenshots/basic_info.png) | ![](/screenshots/basic_info.png) | ![](/screenshots/purpose.png)
+
+Plans 1 | Plans 2 | Drawing
+--- | --- | ---
+![](/screenshots/plans_1.png) | ![](/screenshots/plans_2.png) | ![](/screenshots/basic_info.png)
+
+Photographs 1 | Photographs 2 | Photographs 3
+--- | --- | ---
+![](/screenshots/photographs_1.png) | ![](/screenshots/photographs_2.png) | ![](/screenshots/photographs_3.png) 
+
+Surroundings | Experiences | Architect
+--- | --- | ---
+![](/screenshots/surroundings.png) | ![](/screenshots/experiences.png) | ![](/screenshots/architect.png)
+
+Source Summary 1 | Source Summary 2 | Blog Analysis
+--- | --- | ---
+![](/screenshots/source_summary_1.png) | ![](/screenshots/source_summary_2.png) | ![](/screenshots/blog_analysis.png)
+
+Album 1 | Album 2 | Album 3
+--- | --- | ---
+![](/screenshots/album_1.png) | ![](/screenshots/album_2.png) | ![](/screenshots/album_3.png)
+
+Album 4 | Album 5 | About
+--- | --- | ---
+![](/screenshots/album_4.png) | ![](/screenshots/album_5.png) | ![](/screenshots/basic_info.png)
+
+
+
+
 
 ## Works Cited
 
