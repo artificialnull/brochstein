@@ -6,11 +6,11 @@ The Brochstein Pavilion, presented in the form of a mobile app.
 
 Menu | Basic Info | Purpose 
 --- | --- | ---
-![](/screenshots/basic_info.png) | ![](/screenshots/basic_info.png) | ![](/screenshots/purpose.png)
+![](/screenshots/menu.png) | ![](/screenshots/basic_info.png) | ![](/screenshots/purpose.png)
 
 Plan 1 | Plan 2 | Drawing
 --- | --- | ---
-![](/screenshots/plans_1.png) | ![](/screenshots/plans_2.png) | ![](/screenshots/basic_info.png)
+![](/screenshots/plans_1.png) | ![](/screenshots/plans_2.png) | ![](/screenshots/drawing.png)
 
 Exterior Photograph 1 | Exterior Photograph 2 | Interior Photograph
 --- | --- | ---

@@ -10,6 +10,7 @@ import 'package:brochstein/SourceSummary.dart';
 import 'package:flutter/material.dart';
 
 import 'About.dart';
+import 'Drawing.dart';
 import 'Experiences.dart';
 import 'Surroundings.dart';
 
@@ -39,6 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
     BasicInfo(),
     Purpose(),
     Plans(),
+    Drawing(),
     PhotoInfo(),
     Surroundings(),
     Experiences(),
