@@ -5,7 +5,7 @@ The Brochstein Pavilion, presented in the form of a mobile app.
 ## Screenshots
 
 Basic Info | Purpose
-- | -
+---------- | -------
 ![](/screenshots/basic_info.png) | ![](/screenshots/purpose.png)
 
 ## Works Cited
