@@ -1,6 +1,10 @@
 # Brochstein App
 
-The Brochstein Pavilion
+The Brochstein Pavilion, presented in the form of a mobile app.
+
+## Screenshots
+
+
 
 ## Works Cited
 
